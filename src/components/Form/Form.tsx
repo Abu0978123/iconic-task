@@ -67,7 +67,7 @@ export default function Form() {
   }
 
   return (
-    <section className='absolute inset-0 flex flex-col justify-between p-24'>
+    <section className='absolute inset-0 flex flex-col justify-between p-24 mx-16'>
       {/* steps */}
       <nav aria-label='Progress'>
         <ol role='list' className='space-y-4 md:flex md:space-x-8 md:space-y-0'>
